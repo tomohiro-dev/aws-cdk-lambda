@@ -7,5 +7,5 @@ def handler(event, context):
         "body": {
             "message": "I've done the 30-day challenge!! Woow!!",
             "array": arr.tolist()     
-                 },
+             },
     }
